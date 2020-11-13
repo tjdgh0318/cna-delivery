@@ -5,6 +5,7 @@ public class Paid extends AbstractEvent {
 
     private Long id;
     private Long orderId;
+    // 주석 추가
 
     public Long getId() {
         return id;
